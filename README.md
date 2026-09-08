@@ -89,3 +89,9 @@ See `requirements.txt`. Core dependencies: `wfdb`, `tensorflow`, `numpy`, `sciki
 - Bosson, N. et al. (2017). Causes of prehospital misinterpretations of ST elevation myocardial infarction. *Prehospital Emergency Care*, 21(3), 283-290.
 - Mishra, A., Mishra, S., & Mishra, J.P. (2019). Cardiologist or Computer: Who Can Read EKG Better? *Cardiac*, 1(1).
 - Taddei, A. et al. The European ST-T Database. PhysioNet.
+
+
+
+
+<img width="905" height="604" alt="Screenshot 2026-09-07 at 16-22-16 Brain CT Hemorrhage Assessment" src="https://github.com/user-attachments/assets/648539b9-0220-4e4e-9e80-69a14ab742b2" />
+
