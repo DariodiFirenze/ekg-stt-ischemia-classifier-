@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data cache (if wfdb caches downloaded records locally)
+*.dat
+*.hea
+*.atr
